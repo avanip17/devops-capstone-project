@@ -2,7 +2,7 @@
 
 
 ![Build Status](https://github.com/avanip17/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
-
+ 
 
 This project focuses on developing a customer accounts microservice using DevOps practices, including REST APIs, containerization, and Kubernetes deployment.
 
